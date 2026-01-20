@@ -4,7 +4,7 @@
 
 ## Product Information
 
-- **Product Name:** The SourceCodester Medical Certificate Generator App
+- **Product Name:** SourceCodester Medical Certificate Generator App
 - **Vendor:** SourceCodester
 - **Product URL:**
    https://www.sourcecodester.com/php/16105/medical-certificate-generator-app-using-php-and-mysql-free-download.html
