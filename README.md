@@ -1,4 +1,4 @@
-# Cross-Site Request Forgery (CSRF) – Arbitrary Medical Certificate Deletion
+# CVE-2026-1745 - Cross-Site Request Forgery (CSRF) – Arbitrary Medical Certificate Deletion
 
 ------
 
